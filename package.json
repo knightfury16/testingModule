@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --runInBand"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.3.1"
+  },
+  "devDependencies": {
+    "@mermaid-js/mermaid-cli": "^9.2.2",
+    "prisma": "^4.6.1",
+    "prisma-erd-generator": "^1.2.4"
+  }
+}
